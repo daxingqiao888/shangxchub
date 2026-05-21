@@ -1,0 +1,1 @@
+{"default_count": 20, "enabled_sources": ["unsplash", "pexels", "bing", "google", "500px"], "max_retries": 3, "storage_path": "", "sync_to_cloud": false, "timeout": 30}
