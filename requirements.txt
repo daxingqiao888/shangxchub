@@ -1,0 +1,12 @@
+# 图片采集工具依赖清单
+
+# GUI 界面库
+PySimpleGUI>=6.0.0
+
+# 网络请求与文件下载
+requests>=2.28.0
+
+# 浏览器自动化爬取 (Playwright)
+playwright>=1.40.0
+# 注意：安装后需要运行以下命令安装浏览器内核：
+# playwright install chromium
